@@ -1,0 +1,2 @@
+# ttest
+odoo yg bolno
